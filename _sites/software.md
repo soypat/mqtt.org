@@ -399,6 +399,7 @@ description: A collection of links to all important MQTT brokers/servers, MQTT c
          <li><a href="https://github.com/eclipse/paho.mqtt.golang">Eclipse Paho Go</a></li>
          <li><a href="https://github.com/jeffallen/mqtt">mqtt by jeffallen</a></li>
          <li><a href="https://github.com/pascaldekloe/mqtt">MQTT🤖</a></li>
+         <li><a href="https://github.com/soypat/natiu-mqtt">natiu-mqtt</a> - Low memory usage implementation (v3.1.1)</li>
       </ul>
       <div class="subhead">Haskell</div>
       <ul>
